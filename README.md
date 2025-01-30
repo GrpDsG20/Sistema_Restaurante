@@ -1,15 +1,11 @@
-# Aplicación Restaurante
-Restaurante | ConfiguroWeb es una aplicación web que gestiona el orden del menú del restaurante entre el perfil mesero y el chef.
+SISTEMA COMPLETO PARA UN RESTAURANTE
 
-## Acceso Admin
-Usuario "admin"
-Contraseña "1234abcd.."
+ROLES - MESERO - CHEF - ADMIN
 
-Para ver los empleados:
-Busca en la BD
+admin : 1234abcd..
 
+![Image](https://github.com/user-attachments/assets/cc23f4b1-700d-4b63-8f9a-f04670b26a77)
 
+![Image](https://github.com/user-attachments/assets/927a357d-8f17-4af0-9174-bd0946e179b5)
 
-
-### Nota
-All staff created have same default password : 1234abcd..
+![Image](https://github.com/user-attachments/assets/5cd7a1b4-8912-4a6d-98fe-8cd1933e030e)
